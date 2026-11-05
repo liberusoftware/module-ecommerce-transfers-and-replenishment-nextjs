@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-transfers-and-replenishment-nextjs",
+  "capabilityKey": "planned:ecommerce:transfers-and-replenishment",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-transfers-and-replenishment-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/transfers-and-replenishment.md",
+  "presentationPlan": "projects/ecommerce/nextjs/transfers-and-replenishment.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
